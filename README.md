@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/eduardo-heiden-maines-67b73718b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <div>
-<h3>✍️ Random Dev Quote</h3>
+<h2>✍️ Random Dev Quote</h2>
 <img align="center" alt="Ehmaines-Csharp" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
 </div>
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
