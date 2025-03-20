@@ -4,7 +4,7 @@
 <div>
 <h3>✨ I'm Eduardo Heiden Maines </h3>
 <h3>🗺️I'm from Brazil
-<h3>🧑🏼‍💻 Junior Full Stack Developer at NDD Tech </h3>
+<h3>🧑🏼‍💻 Full Stack Developer at NDD Tech </h3>
 </div>
 
 <h2>💻 Tech Stack</h2>
